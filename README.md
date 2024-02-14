@@ -12,8 +12,8 @@ Simply follow the instructions below to get started.
 
 ### Part 1 - Single stage build
 1. Navigate to your working directory and open a terminal. Please ensure the terminal is cd'd to the working directory as well (i.e `cd ./working-directory`).
-2. Clone this repo `git clone https://github.com/drunknsorry/hello-world`.
-3. cd into hello-world `cd ./hello-world`.
+2. Clone this repo `git clone https://github.com/drunknsorry/containerization-101`.
+3. cd into hello-world `cd ./containerization-101`.
 4. The dockerfile is by default setup for a single stage build. To examine the file please open it in your preferred editor (such as VsCode).
 5. Lets build it. Run `sudo docker build --rm -t hello-world-stage1 .`
     Lets break down the command.
