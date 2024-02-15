@@ -3,6 +3,8 @@
 ## Live Example
 This repo contains the live example for the study tank session found here: https://www.meetup.com/techtank-to/events/298854685/
 
+Watch the Study Session here: https://www.youtube.com/watch?v=lYQMYnnb6Kw
+
 Simply follow the instructions below to get started.
 
 ### Pre-requisites
